@@ -12,11 +12,13 @@
 - 👾 Desenvolvedor Back-End
 - 😄 Pronomes: Ele/Dele
  
+## 🛠️ Tecnologias e Ferramentas
+<br>
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Kaua-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Kaua-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma" />
+</p>
  
   ##
  
