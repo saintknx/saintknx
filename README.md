@@ -8,7 +8,7 @@
 
     
 - 🔭 Buscando oportunidade de estágio
-- 🌱 Atualmente no 4º semestre de Sistemas de Informação
+- 🌱 Atualmente no 4º semestre de Sistemas de Info.
 - 👾 Desenvolvedor Back-End
 - 😄 Pronomes: Ele/Dele
  
