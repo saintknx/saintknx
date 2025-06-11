@@ -11,7 +11,11 @@
 - 🌱 4º semestre de Sistemas de Informação
 - 👾 Desenvolvedor Back-End
 - 😄 Pronomes: Ele/Dele
- 
+  
+<p>
+ㅤㅤ 
+</p>
+
 ## 🛠️ Tecnologias e Ferramentas
 <br>
 
