@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Kauã Sousa 👋
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&size=22&duration=2000&pause=1000&color=F7F7F7&width=435&lines=Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=&size=22&duration=2000&pause=1000&color=F7F7F7&center=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 </div>
 
