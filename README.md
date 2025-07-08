@@ -6,7 +6,7 @@
 </div>
 
 <div>
-  <img align="right" alt="ChronoTriggerParty" height="450" width="450" hspace="200"  src="https://i.pinimg.com/originals/7b/8b/33/7b8b33da0fecfe279ca67c6fc93811b7.gif">
+  <img align="right" alt="ChronoTriggerParty" height="450" width="450" hspace="150"  src="https://i.pinimg.com/originals/7b/8b/33/7b8b33da0fecfe279ca67c6fc93811b7.gif">
 </div>
 
     
