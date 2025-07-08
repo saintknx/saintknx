@@ -6,9 +6,7 @@
 </div>
 
 <div>
-  <img align="right" alt="GifShadow" height="200" width="200" hspace="50" src="https://i.pinimg.com/originals/ca/59/c7/ca59c7300ea299fc9f429da8e7924e5c.gif">
-  <img align="right" alt="GifSonic" height="150" width="150" hspace="1" src="https://i.pinimg.com/originals/a7/13/9e/a7139e21e1dfa26587907ff2e042a4ec.gif">
-  <img align="right" alt="GifKnuckles" height="100" width="100" hspace="0" src="https://static.wikia.nocookie.net/a794adbc-af6b-42ef-9eca-0e9e96cf2339/scale-to-width/370">
+  <img align="right" alt="ChronoTriggerParty" height="450" width="450" hspace="200"  src="https://i.pinimg.com/originals/7b/8b/33/7b8b33da0fecfe279ca67c6fc93811b7.gif">
 </div>
 
     
