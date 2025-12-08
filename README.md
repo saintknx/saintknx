@@ -10,7 +10,7 @@
 </div>
 
     
-- 🔭 Buscando oportunidade de estágio
+- 🔭 Estagiário de TI
 - 🌱 4º semestre de Sistemas de Informação
 - 👾 Desenvolvedor Back-End
 - 😄 Pronomes: Ele/Dele
