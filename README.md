@@ -5,9 +5,6 @@
   </a>
 </div>
 
-<div>
-  <img align="right" alt="ChronoTriggerParty" height="400" width="400" hspace="100"  src="https://i.pinimg.com/originals/7b/8b/33/7b8b33da0fecfe279ca67c6fc93811b7.gif">
-</div>
 
     
 - 🔭 Estagiário de TI
